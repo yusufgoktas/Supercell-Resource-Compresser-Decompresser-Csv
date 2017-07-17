@@ -1,0 +1,1 @@
+Lzma.exe decompressedcsvfolder compressedcsvfolder *.csv -d
