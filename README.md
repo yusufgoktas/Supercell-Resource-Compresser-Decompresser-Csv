@@ -15,3 +15,7 @@ Lzma.exe compressedcsvfolder decompressedcsvfolder *.csv
 (put the Encrypted csv into decompressedcsvfolder)
 
 Lzma.exe dcompressedcsvfolder compressedcsvfolder *.csv -d
+
+#Credits
+
+Ultrapowa (for lzma =) )
