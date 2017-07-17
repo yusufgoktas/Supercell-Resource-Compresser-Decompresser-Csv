@@ -16,6 +16,6 @@ Lzma.exe compressedcsvfolder decompressedcsvfolder *.csv
 
 Lzma.exe dcompressedcsvfolder compressedcsvfolder *.csv -d
 
-#Credits
+# Credits
 
 Ultrapowa (for lzma =) )
