@@ -1,4 +1,4 @@
-# Supercell-Resource-Decryptor
+# Supercell-Resource-Decryptor-Csv
 
 This Program doesn't affaired with supercell. For more http://supercell.com/en/fan-content-policy/
 
