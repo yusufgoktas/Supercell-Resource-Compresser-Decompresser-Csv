@@ -6,12 +6,12 @@ This Program doesn't affaired with supercell. For more http://supercell.com/en/f
 
 # Compress:
 
-(put encrypted csv into compressedcsvfolder)
+(put Dencrypted csv into compressedcsvfolder)
 
 Lzma.exe compressedcsvfolder decompressedcsvfolder *.csv
 
 # Decompress
 
-(put the dencrypted csv into decompressedcsvfolder)
+(put the Encrypted csv into decompressedcsvfolder)
 
-Lzma.exe decompressedcsvfolder compressedcsvfolder *.csv -d
+Lzma.exe dcompressedcsvfolder compressedcsvfolder *.csv -d
