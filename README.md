@@ -10,7 +10,7 @@ This Program doesn't affaired with supercell. For more http://supercell.com/en/f
 
 Run Compress.bat
 
-~~Lzma.exe compressedcsvfolder decompressedcsvfolder *.csv
+~Lzma.exe compressedcsvfolder decompressedcsvfolder *.csv~
 
 # Decompress
 
@@ -18,7 +18,7 @@ Run Compress.bat
 
 Run Decompress.bat
 
-~~Lzma.exe dcompressedcsvfolder compressedcsvfolder *.csv -d
+~Lzma.exe dcompressedcsvfolder compressedcsvfolder *.csv -d~
 
 # Credits
 
